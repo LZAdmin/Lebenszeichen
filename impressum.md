@@ -1,6 +1,6 @@
 ### Sicherheit Ihrer Daten
 
-Es ist uns äusserst wichtig, Ihre Daten vor unbefugtem Zugriff, Verwendung, Kopieren oder anderen unbefugten Verfahren zu schützen.
+Es ist uns äußerst wichtig, Ihre Daten vor unbefugtem Zugriff, Verwendung, Kopieren oder anderen unbefugten Verfahren zu schützen.
 
 Zukunft-unternehmen.net hat die entsprechenden technischen und organisatorischen Massnahmen ergriffen, um Ihre Daten zu sichern und zu schützen. Ihre Daten werden auf einem sicheren deutschen Server gespeichert und gehostet.
 
