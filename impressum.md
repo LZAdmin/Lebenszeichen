@@ -1,4 +1,4 @@
-### Sicherheit Ihrer Daten xxx
+### Sicherheit Ihrer Daten
 
 Es ist uns äusserst wichtig, Ihre Daten vor unbefugtem Zugriff, Verwendung, Kopieren oder anderen unbefugten Verfahren zu schützen.
 
